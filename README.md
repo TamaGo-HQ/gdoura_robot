@@ -14,7 +14,7 @@ Designed and built an autonomous robot capable of navigating the following map:
   - Calibrates analog **infrared sensors**  
   - Follows the line smoothly using **PID control**  
   - Navigates the maze using an **ultrasonic sensor**, an **IMU**, and two **end-of-course sensors**
-  - 
+
 <img width="500" height="auto" alt="gdoura_cad" src="https://github.com/user-attachments/assets/7e15f973-0e61-4de1-a028-0dca23cac7f2" />
 
 
